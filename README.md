@@ -1,4 +1,4 @@
-# Mohammad Ali's GitHub Profile
+# My Profile
 
 ## 👋 Welcome!
 

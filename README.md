@@ -18,4 +18,4 @@ Feel free to connect with me on any of these platforms. Let's collaborate and cr
 
 ## 📈 GitHub Stats
 
-![Mohammad Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ali-Rauf&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ali-Rauf&show_icons=true&theme=radical)

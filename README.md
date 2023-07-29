@@ -10,7 +10,7 @@ I'm currently focused on learning the MERN stack (MongoDB, Express.js, React.js,
 
 ## 📫 Get in Touch
 
-- GitHub: [Github.com/Mohammad-Ali-Rauf](https://github.com/Mohammad-Ali-Rauf)
+- Portfolio: [Mohammad Ali](mohammad-ali.click)
 - LinkedIn: [Linkedin.com/in/mohammad-ali-40689121b/](https://www.linkedin.com/in/mohammad-ali-40689121b/)]
 - Twitter: [@MohammadAliRauf](https://twitter.com/MohammadAliRauf)
 

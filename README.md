@@ -2,17 +2,16 @@
 
 ## 👋 Welcome!
 
-Hello there! I'm Mohammad Ali, a frontend web developer on a journey to learn the MERN stack.
+Hello there! I'm Mohammad Ali, a full stack mern developer on a journey to learn DevOps.
 
 ## 🌱 Currently Learning
 
-I'm currently focused on learning the MERN stack (MongoDB, Express.js, React.js, Node.js). Excited to build awesome web applications!
+I'm currently focused on learning DevOps (Docker, Kubernetes, CI/CD Pipeline, Linux). Excited to build awesome dockerized web applications! Solving the problem of 'It works on my computer'.
 
 ## 📫 Get in Touch
 
 - Portfolio: [Mohammad Ali](https://mohammad-ali.click)
-- LinkedIn: [Linkedin.com/in/mohammad-ali-40689121b/](https://www.linkedin.com/in/mohammad-ali-40689121b/)]
-- Twitter: [@MohammadAliRauf](https://twitter.com/MohammadAliRauf)
+- LinkedIn: [Profile](https://www.linkedin.com/in/mohammad-ali-rauf/)]
 
 Feel free to connect with me on any of these platforms. Let's collaborate and create amazing things together!
 

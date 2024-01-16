@@ -11,7 +11,7 @@ I'm currently focused on learning DevOps (Docker, Kubernetes, CI/CD Pipeline, Li
 ## 📫 Get in Touch
 
 - Portfolio: [Mohammad Ali](https://mohammad-ali.click)
-- LinkedIn: [Profile](https://www.linkedin.com/in/mohammad-ali-rauf/)
+- LinkedIn: [Mohammad Ali](https://www.linkedin.com/in/mohammad-ali-rauf/)
 
 Feel free to connect with me on any of these platforms. Let's collaborate and create amazing things together!
 

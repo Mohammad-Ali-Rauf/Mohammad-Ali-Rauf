@@ -19,7 +19,3 @@ Feel free to connect with me on any of these platforms. Let's collaborate and cr
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ali-Rauf&show_icons=true&theme=radical)
 
-## 📈 Daily Dev Stats
-
-[![Mohammad Ali's Dev Card](https://api.daily.dev/devcards/767d6d211389477cbaee3f1c978ea13f.png?r=7ed)](https://app.daily.dev/mohammadali87)
-

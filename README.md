@@ -2,7 +2,7 @@
 
 ## 👋 Welcome!
 
-Hello there! I'm Mohammad Ali, a full stack mern developer on a journey to learn DevOps.
+Hello there! I'm Mohammad Ali, a MERN Stack and Next.js Developer on a journey to learn DevOps.
 
 ## 🌱 Currently Learning
 

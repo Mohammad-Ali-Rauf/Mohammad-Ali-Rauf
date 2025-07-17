@@ -1,21 +1,23 @@
-# My Profile
+# Mohammad Ali — DevSecOps & Red Teamer
 
-## 👋 Welcome!
+## About Me
 
-Hello there! I'm Mohammad Ali, a MERN Stack and Next.js Developer on a journey to learn DevOps.
+I am a MERN Stack and Next.js developer transitioning into DevSecOps and Red Team operations. My goal is to combine development skills with offensive security and cloud infrastructure to build reliable, secure, and scalable systems.
 
-## 🌱 Currently Learning
+## Current Focus
 
-I'm currently focused on learning DevOps (Docker, Kubernetes, CI/CD Pipeline, Linux). Excited to build awesome dockerized web applications! Solving the problem of 'It works on my computer'.
+- DevOps and Cloud Technologies: Docker, Kubernetes, GitHub Actions, AWS, and TypeScript  
+- Offensive Security: Sliver, Rust, Golang  
+- Automation: Building CI/CD pipelines through **GitHub Actions** to deploy and manage security tools and payloads  
+- Problem-solving with infrastructure as code and containerized applications
 
-## 📫 Get in Touch
+## Get in Touch
 
-- Portfolio: [Mohammad Ali](https://mohammad-ali.click)
+- Portfolio: [mohammad-ali.click](https://mohammad-ali.click)  
 - LinkedIn: [Mohammad Ali](https://www.linkedin.com/in/mohammad-ali-rauf/)
 
-Feel free to connect with me on any of these platforms. Let's collaborate and create amazing things together!
+Feel free to reach out for collaboration or discussion on development, security, or cloud infrastructure.
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ali-Rauf&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Ali-Rauf&show_icons=true&theme=radical)

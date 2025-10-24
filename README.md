@@ -48,8 +48,8 @@ Currently exploring offensive security with focus on operating system internals,
 
 ## 💼 **Professional Experience**
 
+- **Chief Technology Officer** at Programmiers  (Present)
 - **Faculty Member** at Governor Initiative for AI and Computing (GIAIC)
-- **Back End Developer** at Programmiers  
 - **Frontend Developer** at PearlQuest Interactive
 
 ---

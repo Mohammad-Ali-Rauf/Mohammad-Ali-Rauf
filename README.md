@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Mohammad Ali** 🔴 — Security Researcher
+# **Mohammad Ali** 🔴 — Red Team Operator
 
 ### *Understanding systems by breaking them, securing them by understanding*
 

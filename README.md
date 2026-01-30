@@ -28,4 +28,4 @@ I enjoy solving complex problems, whether in computing systems or analytical hob
 
 ## 📫 Contact
 
-[Portfolio](https://mohammad-ali-rauf.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ali-student-low-level/) • [Email](mailto:m.aliadnanrauf@gmail.com)
+[Portfolio](https://mohammad-ali-rauf.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ali-low-level/) • [Email](mailto:m.aliadnanrauf@gmail.com)

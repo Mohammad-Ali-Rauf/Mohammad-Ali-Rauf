@@ -17,7 +17,7 @@ I enjoy **problem-solving**, both in computing systems and analytical hobbies li
 
 ## 🛠️ Current Focus & Tech
 
-* **OS:** Linux (Fedora, NixOS)
+* **OS:** Linux (Fedora)
 * **Programming Language:** C
 * **Editor:** VS Code
 * **Focus Areas:** Linux kernel internals, low-level systems, foundational OS concepts

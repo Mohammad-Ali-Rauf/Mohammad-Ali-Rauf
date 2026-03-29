@@ -2,27 +2,26 @@
 
 As-salamu alaykum 👋
 
-I'm Ali — a student from Karachi, Pakistan, currently completing my A Levels as a private candidate.
+I’m **Ali**, a student in Karachi, Pakistan, currently completing my A Levels (Physics, Mathematics, IT). I started with web development but now focus on **low-level systems and Linux internals**, learning **C programming** to build a strong foundation for **future work in vulnerability research and firmware exploration**.
 
-I started coding young with HTML/CSS and later explored full-stack development. Today, my focus is on **low-level programming, binary analysis, and protocol exploration**, *Still learning—no elite skills yet*.
-
-I enjoy solving complex problems, whether in computing systems or analytical hobbies like the Rubik’s Cube.
+I enjoy **problem-solving**, both in computing systems and analytical hobbies like the Rubik’s Cube. I occasionally share my learning publicly, though my studies remain my top priority, so updates may be irregular.
 
 ---
 
 ## 💼 Experience
 
 * **Assistant Teacher** at GIAIC — Mar 2024 – Feb 2025
-
-*(Past development experience included web apps, and MERN/Next.js projects)*
+* (Past projects included MERN/Next.js apps and personal deployments)
 
 ---
 
 ## 🛠️ Current Focus & Tech
 
-* **Languages:** C, Rust, Assembly (x86_64 & ARM), Bash
-* **Systems & Tools:** Linux(NixOS, Fedora), Networking, Git, Podman
-* **Interests:** Low-level programming, binary/protocol analysis, reverse engineering
+* **OS:** Linux (Fedora, NixOS)
+* **Programming Language:** C
+* **Editor:** VS Code
+* **Focus Areas:** Linux kernel internals, low-level systems, foundational OS concepts
+* **Upcoming Interests:** Firmware/UEFI exploration, Assembly (x86_64 & RISC-V)
 
 ---
 

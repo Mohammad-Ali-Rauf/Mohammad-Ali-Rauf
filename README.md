@@ -10,7 +10,7 @@ I'm a **full-stack developer** and **A-Level student** (Physics, Math, IT) based
 - Bug fixes, feature patches, or performance tweaks  
 - Small business web apps (booking, forms, dashboards)
 
-🎯 **Tech Stack**: Next.js, React, Node.js, PostgreSQL/SQLite (project-dependent), Git  
+🎯 **Tech Stack**: Next.js, React, Node.js, PostgreSQL/SQLite/MongoDB (project-dependent), Git  
 🕒 **Availability**: 10–20 hrs/week • Remote • Quick turnaround
 
 ---

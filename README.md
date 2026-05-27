@@ -1,30 +1,32 @@
-# 🛡️ **About Me**
+# 👋 **Ali | Full-Stack Developer**
 
-As-salamu alaykum 👋
+As-salamu alaykum
 
-I’m **Ali**, a student in Karachi, Pakistan, currently completing my A Levels (Physics, Mathematics, IT). I started with web development but now focus on **low-level systems and Linux internals**, learning **C programming** to build a strong foundation for **future work in vulnerability research and firmware exploration**.
+I'm a **full-stack developer** and **A-Level student** (Physics, Math, IT) based in Karachi, Pakistan. I build clean, responsive web applications—and I'm available for **short-term, fixed-scope projects**.
 
-I enjoy **problem-solving**, both in computing systems and analytical hobbies like the Rubik’s Cube. I occasionally share my learning publicly, though my studies remain my top priority, so updates may be irregular.
+✅ **I help with**:  
+- Landing pages & marketing sites  
+- MVP scaffolds (auth + CRUD + deploy)  
+- Bug fixes, feature patches, or performance tweaks  
+- Small business web apps (booking, forms, dashboards)
+
+🎯 **Tech Stack**: Next.js, React, Node.js, PostgreSQL/SQLite (project-dependent), Git  
+🕒 **Availability**: 10–20 hrs/week • Remote • Quick turnaround
 
 ---
 
 ## 💼 Experience
 
-* **Assistant Teacher** at GIAIC — Mar 2024 – Feb 2025
-* (Past projects included MERN/Next.js apps and personal deployments)
+* **Assistant Teacher** @ GIAIC — Mar 2024 – Feb 2025  
+  *Taught web fundamentals; strengthened my ability to build and explain clean, maintainable code*
+* **Projects**: Next.js/React apps with Node backends, auth, and production deployments — [See Portfolio](https://mohammad-ali-rauf.vercel.app)
 
 ---
 
-## 🛠️ Current Focus & Tech
+## 📫 Let's Work Together
 
-* **OS:** Linux (Fedora)
-* **Programming Language:** C
-* **Editor:** VS Code
-* **Focus Areas:** Linux kernel internals, low-level systems, foundational OS concepts
-* **Upcoming Interests:** Firmware/UEFI exploration, Assembly (x86_64 & RISC-V)
-
----
-
-## 📫 Contact
+Open to fixed-price engagements with clear deliverables. Avoid hourly rates and vaguely scoped projects.
 
 [Portfolio](https://mohammad-ali-rauf.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ali-low-level/) • [Email](mailto:m.aliadnanrauf@gmail.com)
+
+> 🔄 *I'm a student first—so I prioritize focused, well-defined work. If I don't reply instantly, I'm likely in class or deep in code. I'll get back to you within 24 hours.*

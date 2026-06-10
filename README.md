@@ -2,7 +2,7 @@
 
 As-salamu alaykum
 
-I'm a **full-stack developer** and **A-Level student** (Physics, Math, IT) based in Karachi, Pakistan. I build clean, responsive web applications—and I'm available for **short-term, fixed-scope projects**.
+I'm a **full-stack developer** with some expertise in deployment and CI/CD as well, based in Karachi, Pakistan. I'm available for **short-term, fixed-scope projects**.
 
 ✅ **I help with**:  
 - Landing pages & marketing sites  
@@ -10,8 +10,8 @@ I'm a **full-stack developer** and **A-Level student** (Physics, Math, IT) based
 - Bug fixes, feature patches, or performance tweaks  
 - Small business web apps (booking, forms, dashboards)
 
-🎯 **Tech Stack**: Next.js, React, Node.js, PostgreSQL/SQLite/MongoDB (project-dependent), Git  
-🕒 **Availability**: 10–20 hrs/week • Remote • Quick turnaround
+🎯 **Tech Stack**: Next.js, TypeScript, PostgreSQL/SQLite (project-dependent), Dagger, Docker, and Git  
+🕒 **Availability**: 10 hrs/week • Remote • Quick turnaround
 
 ---
 
@@ -28,5 +28,3 @@ I'm a **full-stack developer** and **A-Level student** (Physics, Math, IT) based
 Open to fixed-price engagements with clear deliverables. Avoid hourly rates and vaguely scoped projects.
 
 [Portfolio](https://mohammad-ali-rauf.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ali-low-level/) • [Email](mailto:m.aliadnanrauf@gmail.com)
-
-> 🔄 *I'm a student first—so I prioritize focused, well-defined work. If I don't reply instantly, I'm likely in class or deep in code. I'll get back to you within 24 hours.*

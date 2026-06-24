@@ -2,7 +2,7 @@
 
 As-salamu alaykum
 
-I'm a **full-stack developer** with some expertise in deployment and CI/CD as well, based in Karachi, Pakistan. I'm available for **short-term, fixed-scope projects**.
+I'm a **full-stack developer** with some expertise in deployment and containerization as well, based in Karachi, Pakistan. I'm available for **short-term, fixed-scope projects**.
 
 ✅ **I help with**:  
 - Landing pages & marketing sites  
@@ -10,8 +10,8 @@ I'm a **full-stack developer** with some expertise in deployment and CI/CD as we
 - Bug fixes, feature patches, or performance tweaks  
 - Small business web apps (booking, forms, dashboards)
 
-🎯 **Tech Stack**: Next.js, TypeScript, PostgreSQL/SQLite (project-dependent), Dagger, Docker, and Git  
-🕒 **Availability**: 10 hrs/week • Remote • Quick turnaround
+🎯 **Tech Stack**: Next.js, TypeScript, PostgreSQL/SQLite (project-dependent), Docker, and Git  
+🕒 **Availability**: 15 hrs/week • Remote • Quick turnaround
 
 ---
 

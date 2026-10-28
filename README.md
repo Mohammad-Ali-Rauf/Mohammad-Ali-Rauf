@@ -1,18 +1,27 @@
-# 👋 **Ali**
+# 👋 Ali
 
-As-salamu alaykum
+**Assalamu alaykum!** I'm Ali, a full-stack developer from Karachi, Pakistan 🇵🇰
 
-I'm a **student** based in Karachi, Pakistan.
+I help individuals and businesses bring their ideas to life through modern websites, custom applications, and backend solutions, alongside my A-Levels.
 
----
+### 💼 Experience
 
-## 💼 Experience
+- **Teaching Assistant — GIAIC** · Mar 2024 – Feb 2025  
+  Helped students learn web development, including TypeScript and Next.js.
+- **Frontend Developer — PearlQuest Interactive**  
+  Worked on the frontend of a live-event project.
 
-* **Assistant Teacher** @ GIAIC — Mar 2024 – Feb 2025  
-  *Taught web fundamentals; strengthened my ability to build and explain clean, maintainable code*
-* **Projects**: vanilla HTML, CSS JS + Next.js/React apps with Node backends, and auth
-* **Focus**: Next.js, SQLite, MongoDB, Docker
+### 🛠️ Tech Stack
 
----
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
+- **Backend:** Node.js
+- **Databases:** MongoDB, SQLite
+- **Tools:** Git, GitHub, Docker
 
-[Portfolio](https://mohammad-ali-rauf.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ali-low-level/) • [Email](mailto:m.aliadnanrauf@gmail.com)
+### 🤝 Let's Connect
+
+- 🌐 [Portfolio](https://mohammad-ali-rauf.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-low-level/)
+- 📧 [Email](mailto:m.aliadnanrauf@gmail.com)
+
+I'm open to freelance projects, part-time work, and junior developer opportunities.

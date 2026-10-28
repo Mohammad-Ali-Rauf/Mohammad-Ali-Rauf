@@ -21,7 +21,7 @@ I help individuals and businesses bring their ideas to life through modern websi
 ### 🤝 Let's Connect
 
 - 🌐 [Portfolio](https://mohammad-ali-rauf.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ali-low-level/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/malirauf/)
 - 📧 [Email](mailto:m.aliadnanrauf@gmail.com)
 
 I'm open to freelance projects, part-time work, and junior developer opportunities.

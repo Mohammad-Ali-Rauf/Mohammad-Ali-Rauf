@@ -10,7 +10,8 @@ I'm a **student** based in Karachi, Pakistan.
 
 * **Assistant Teacher** @ GIAIC — Mar 2024 – Feb 2025  
   *Taught web fundamentals; strengthened my ability to build and explain clean, maintainable code*
-* **Projects**: Next.js/React apps with Node backends, and auth
+* **Projects**: vanilla HTML, CSS JS + Next.js/React apps with Node backends, and auth
+* **Focus**: Next.js, SQLite, MongoDB, Docker
 
 ---
 
